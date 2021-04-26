@@ -35,7 +35,7 @@ const ItemIcon = styled.img`
   width: 30px;
   height: 30px;
   margin-top: 5px;
-  margin-left: 590px;
+  margin-left: 560px;
   
   float: left;
   `
