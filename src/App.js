@@ -120,7 +120,7 @@ function Welcome(props) {
   
     return (
       <Fragment>
-        <div onDrop={(files) => {handleFiles(files) }} >
+        <div>
           {loading
             ? <Fragment>
               <h1>Unpacking preview...</h1>
